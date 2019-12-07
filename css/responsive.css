@@ -1,0 +1,104 @@
+/* The given screen size or smaller */
+/* Large device Devices (Desktop ) */
+@media(max-width:1200px){
+	.mainmenu ul li {
+		padding-left: 50px;
+	}
+}
+
+/* Medium Devices (tablets Phone) */
+@media(max-width:992px){
+	.mainmenu ul li {
+		padding-left: 19px;
+		
+	}
+}
+
+/* Small Devices (Landscape Phone) */
+@media(max-width:768px){
+	.mainmenu ul li {
+		padding-left:15px ;
+		
+	}
+}
+
+/* Extra Small Devices (Portrait Phone) */
+@media(max-width:576px){
+	.logo {
+		padding: 30px 0;
+		text-align: center;
+	}
+	.mainmenu ul li {
+		padding: 10px;
+	}
+	.mainmenu ul li a {
+		padding: 20px 0;
+		font-size: 12px;
+	}
+	.mainmenu ul {
+		text-align: center;
+	}
+	.big-blog-box .blog-featured-content {
+		margin-bottom: 30px;
+	}
+	.single-blog-item {
+		margin-bottom: 50px;
+	}
+	.footer-area {
+		text-align: center;
+	}
+	.footer-area ul li {
+		padding: 10px;
+	}
+	.footer-area .text-right {
+		text-align: center !important;
+	}
+	.load-more-btn {
+		font-size: 15px;
+		padding: 7px 20px;
+		color: #626262;
+	}
+	.footer-area {
+		margin-top: 50px;
+	}
+}
+
+
+
+/* Small Decives (Landscapr phone) */
+@media(min-width:576px){}
+
+/* Medium Decives (Tablet phone) */
+@media(min-width:768px){}
+
+/* Large Decives ( Desktops) */
+@media(min-width:992px){}
+
+/* Extra Large Decives (LArge Desktops) */
+@media(min-width:1200px){}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
